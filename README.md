@@ -50,11 +50,9 @@ _Note that `kwic_report.ipynb` has been deprecated._ Run the `key_term_in_contex
 
 #### Visualizations
 
-Run the `match_visualize.ipynb` Python notebook (or its companion, `match_visualize.html`) to create visualizations from the results. Optionally, save individual visualizations as `.png` files. See the following examples:
+_Note that `visualize_matches.ipynb` has been deprecated. I think._ Run the `match_visualize.ipynb` Python notebook (or its companion, `match_visualize.html`) to create visualizations from the results. Optionally, save individual visualizations as `.png` files. See the following examples:
 
 - `element_frequency_accross_dfs`
 - `element_frequency_accross_dfs_stacked`
 - `term_frequency_by_repo`
 - `term_frequency_by_repo_horizbar`
-
-# TODO: Don't forget to update titles
