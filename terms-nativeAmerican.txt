@@ -1,6 +1,4 @@
-﻿Civilization
-Civilized
-Uncivilized
+﻿Uncivilized
 Burial
 Burials
 Mound
@@ -10,85 +8,45 @@ Graveyard
 Dwelling
 Dwellings
 Indigenous
-Indigenous Person
 Indian
 Indians
-Insurgency
-Insurgent
-Insurgents
-Insurrection
 Native
 Natives
 Pegan
-Pegans
-Witch
-Witch Doctor
 Colonial
 Colonist
 Colonists
 Colonization
 Colony
 Colonialism
-Death
-Dead
-Execution
-Executions
-Hanging
-Hanged
 Remains
 Human Remains
 Settler
 Settlers
-Skull
-Skulls
-Massacre
 Copper
-Shard
-Shards
-Pottery 
-Bead
-Beads
-Indian pigment 
-Indian paint
-Half-breed
-Half-breeds 
 Savage
 Savages
 Captive
 Captives
-Warrior
-Warriors
-Costume 
-Costumes 
 Regalia
 Chief
-Chiefs 
-Hiawatha 
-Squaw 
-Squaws 
+Chiefs
+Hiawatha
 Ojibwe
 Ojibwa
-Pottawatomie 
-Pottawatomi 
-Badowatomi 
-Ottawa 
-Odawa 
+Potawatomie
+Potawatomi
+Ottawa
+Odawa
 Sauk
 Fox
-Cass 
+Lewis Cass 
 Removal
-Indian removal 
 Reservation 
-Reservations 
-Treaty 
-Treaties 
+Reservations
+Treaty
+Treaties
 Indian bureau 
-Indian agent 
-Devil
-Devils
-Devil worship 
-Devil worshipers 
+Indian agent
 Anishnaabe
-Anishnaabek 
-Chippewa 
-Chippewas
+Chippewa
